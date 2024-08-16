@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Atharv Joshi</h1>
-<h3>DevOps Engineer | Cloud Enthusiast | Automation Advocate</h3>
+<h3>DevOps Engineer | Cloud Enthusiast</h3>
 
 <p>
   Passionate DevOps Engineer specializing in Google Cloud Platform (GCP), Tekton CI/CD pipelines, and Container-as-a-Service (CaaS) solutions.
